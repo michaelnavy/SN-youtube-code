@@ -1,2 +1,3 @@
-# SN-youtube-code
+Skill finding repository
+
 This is youtube describing my experience
